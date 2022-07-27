@@ -13,6 +13,8 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🌱 Exploring technology and soft skills.
 - ⚡ In my free time I solve problems on Github Issues and read tech articles.
 - 📫 How to reach me: 📱 📧
+- 💼 [Facebook](https://facebook.com/minhcuongbp)
+- 🚀 [Telegram](https://t.me/minhcuongit)
 
 ---
 
