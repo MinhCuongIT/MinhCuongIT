@@ -15,6 +15,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 📫 How to reach me: 📱 📧
 - 💼 [Facebook](https://facebook.com/minhcuongbp)
 - 🚀 [Telegram](https://t.me/minhcuongit)
+- 🔗 [Linkedin](https://www.linkedin.com/in/minhcuongit)
 
 ---
 
