@@ -36,5 +36,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-### My CV [here]([English]-TranMinhCuong-21032023.pdf)
+---
+
+### My CV [here]([English]-TranMinhCuong-21032023.pdf) or [here](CV_TranMinhCuong_en.pdf)
 ---
