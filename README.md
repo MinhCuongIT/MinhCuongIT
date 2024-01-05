@@ -39,5 +39,5 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### My CV [here]([English]-TranMinhCuong-21032023.pdf) or [here](CV_TranMinhCuong_en.pdf)
+### My CV [here](TranMinhCuong_2024_full.pdf) or [here](CV_TranMinhCuong_en.pdf)
 ---
